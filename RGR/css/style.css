@@ -78,3 +78,25 @@ body {
     margin-bottom: 12px;
     line-height: 1.6;
   }
+  @media (max-width: 768px) {
+    .hero h1 {
+      font-size: 28px;
+    }
+  
+    .hero p {
+      font-size: 16px;
+    }
+  
+    .card-title {
+      font-size: 18px;
+    }
+  
+    .card-text {
+      font-size: 14px;
+    }
+  
+    .navbar-brand {
+      font-size: 16px;
+    }
+  }
+  
